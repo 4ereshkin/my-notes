@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Таблица
+  - type: cards
+    name: представление
+    imageFit: contain
